@@ -1,0 +1,51 @@
+{"0": {
+    "doc": "Strona startowa",
+    "title": "Strona startowa",
+    "content": " ",
+    "url": "/site-starter/",
+    
+    "relUrl": "/"
+  },"1": {
+    "doc": "Strona startowa",
+    "title": "Zawartość",
+    "content": ". | Jeden | Dwa | Trzy | . ",
+    "url": "/site-starter/#zawarto%C5%9B%C4%87",
+    
+    "relUrl": "/#zawartość"
+  },"2": {
+    "doc": "Strona startowa",
+    "title": "Linki",
+    "content": ". | My webpage | . ",
+    "url": "/site-starter/#linki",
+    
+    "relUrl": "/#linki"
+  },"3": {
+    "doc": "Talk 1",
+    "title": "Talk 1",
+    "content": ". | TOC | . ",
+    "url": "/site-starter/talks/talk1.html",
+    
+    "relUrl": "/talks/talk1.html"
+  },"4": {
+    "doc": "Talk 1",
+    "title": "Intro",
+    "content": " ",
+    "url": "/site-starter/talks/talk1.html#intro",
+    
+    "relUrl": "/talks/talk1.html#intro"
+  },"5": {
+    "doc": "Talk 2",
+    "title": "Talk 2",
+    "content": ". | TOC | . ",
+    "url": "/site-starter/talks/talk2.html",
+    
+    "relUrl": "/talks/talk2.html"
+  },"6": {
+    "doc": "Talk 2",
+    "title": "Intro",
+    "content": " ",
+    "url": "/site-starter/talks/talk2.html#intro",
+    
+    "relUrl": "/talks/talk2.html#intro"
+  }
+}
